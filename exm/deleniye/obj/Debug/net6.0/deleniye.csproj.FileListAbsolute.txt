@@ -1,0 +1,15 @@
+C:\Users\Иван\Desktop\Geek\C#\exm\deleniye\bin\Debug\net6.0\deleniye.exe
+C:\Users\Иван\Desktop\Geek\C#\exm\deleniye\bin\Debug\net6.0\deleniye.deps.json
+C:\Users\Иван\Desktop\Geek\C#\exm\deleniye\bin\Debug\net6.0\deleniye.runtimeconfig.json
+C:\Users\Иван\Desktop\Geek\C#\exm\deleniye\bin\Debug\net6.0\deleniye.dll
+C:\Users\Иван\Desktop\Geek\C#\exm\deleniye\bin\Debug\net6.0\deleniye.pdb
+C:\Users\Иван\Desktop\Geek\C#\exm\deleniye\obj\Debug\net6.0\deleniye.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\Geek\C#\exm\deleniye\obj\Debug\net6.0\deleniye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\Geek\C#\exm\deleniye\obj\Debug\net6.0\deleniye.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\Geek\C#\exm\deleniye\obj\Debug\net6.0\deleniye.AssemblyInfo.cs
+C:\Users\Иван\Desktop\Geek\C#\exm\deleniye\obj\Debug\net6.0\deleniye.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\Geek\C#\exm\deleniye\obj\Debug\net6.0\deleniye.dll
+C:\Users\Иван\Desktop\Geek\C#\exm\deleniye\obj\Debug\net6.0\refint\deleniye.dll
+C:\Users\Иван\Desktop\Geek\C#\exm\deleniye\obj\Debug\net6.0\deleniye.pdb
+C:\Users\Иван\Desktop\Geek\C#\exm\deleniye\obj\Debug\net6.0\deleniye.genruntimeconfig.cache
+C:\Users\Иван\Desktop\Geek\C#\exm\deleniye\obj\Debug\net6.0\ref\deleniye.dll
